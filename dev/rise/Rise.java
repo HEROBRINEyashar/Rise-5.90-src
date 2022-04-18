@@ -70,7 +70,7 @@ public enum Rise {
     public static final BlurUtil BLUR_UTIL = new BlurUtil();
 
     // Client information
-    public static String CLIENT_NAME = "Rise", CLIENT_VERSION = "Lucas x Almir Edition";
+    public static String CLIENT_NAME = "Rise", CLIENT_VERSION = "5.9";
     public static int CLIENT_THEME_COLOR_DEFAULT = new Color(159, 24, 242).hashCode();
     public static int CLIENT_THEME_COLOR = new Color(159, 24, 242).hashCode();
     public static int CLIENT_THEME_COLOR_BRIGHT = new Color(185, 69, 255).hashCode();
